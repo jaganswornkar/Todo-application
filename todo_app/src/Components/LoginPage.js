@@ -185,7 +185,7 @@ export default function SignIn() {
             </Grid>
           </Grid>
           <GoogleLogin
-            clientId="619545785746-aeldlso5o53jo6ovnhm88uo9nsh6pgls.apps.googleusercontent.com"
+            clientId="725279638493-nhkk76sksh98it30d7aqvg7ssks61vt3.apps.googleusercontent.com"
             buttonText="Login with Google"
             className={classes.login}
             onSuccess={responseGoogle}
